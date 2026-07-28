@@ -1,0 +1,8 @@
+{
+  "name": "privacy-pump-keeper-reference",
+  "description": "Non-custodial reference state machine for Privacy Pump fee settlement.",
+  "maturity": "Reference state machine",
+  "network": "Deterministic local simulation",
+  "topics": ["privacy-pump", "solana", "keeper", "localnet"],
+  "visibility": "public-after-verification"
+}
